@@ -1,4 +1,4 @@
-# docker-compose-rails-6
+# rails6
 
 This repository defines docker files(Dockerfile and docker-compose.yml) to create the image. The docker image is published and usable from Docker Hub according to the following commands.
 
